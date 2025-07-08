@@ -1,4 +1,4 @@
-package entity;
+package Entity;
 public  class Manager extends Employee{
     public Manager() {
     }
